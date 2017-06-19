@@ -14,9 +14,9 @@
     along with this program; if not, see http://www.gnu.org/licenses
 """
 
-""" yunohost_monitor.py
+""" yunohost_fdisk.py
 
-    Monitoring functions
+    fdisk functions
 """
     
 
